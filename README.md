@@ -1,1 +1,1 @@
-![Just Java Android App](img/just_java_android_app)
+![Just Java Android App](img/just_java_android_app.png)
